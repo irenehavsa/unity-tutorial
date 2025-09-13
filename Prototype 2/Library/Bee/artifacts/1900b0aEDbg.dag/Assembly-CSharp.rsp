@@ -424,8 +424,10 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.56f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.56f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/Scripts/DestroyOutOfBounds.cs"
+"Assets/Scripts/DetectCollisions.cs"
 "Assets/Scripts/MoveForward.cs"
 "Assets/Scripts/PlayerController.cs"
+"Assets/Scripts/SpawnManager.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
 /deterministic
